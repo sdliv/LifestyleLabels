@@ -8,4 +8,4 @@ based on user behavior.
 
 
 ![alt tag](
-https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-ApplePay.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-LoginWithFacebook.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-PaymentNotification.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-Prediect-Functionality.gif)
+https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-ApplePay.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-LoginWithFacebook.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-PaymentNotification.gif) ![alt tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-Prediect-Functionality.gif) ![alt_tag](https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-PushMessages.gif)
