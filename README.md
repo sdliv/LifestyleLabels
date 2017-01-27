@@ -3,7 +3,9 @@ Lifestyle Labels is a demo application I built for internal sales use at Emarsys
 
 It features some GIFs of the functionality I built at Emarsys for their iOS SDK.  The demo application features predict
 functionality, recommending products based on previously view products.  It also features smart push notifications based
-based on user behavior.
+based on user behavior.  The recording of the .GIFs does not reflect the performance of the app.  It is recorded at 8fps.
+
+
 
 
 
