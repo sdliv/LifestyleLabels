@@ -5,4 +5,7 @@ It features some GIFs of the functionality I built at Emarsys for their iOS SDK.
 functionality, recommending products based on previously view products.  It also features smart push notifications based
 based on user behavior.
 
+\
 
+![alt tag](
+https://github.com/sdliv/LifestyleLabels/blob/master/LifestyleLables-ApplePay.gif)
